@@ -5,6 +5,7 @@ gemoji modified by Lewis for testing github desktop
 ### 1st branch
 ### 2nd branch
 ### 1st merge modify
+### 2nd merge modify
 ======
 
 This library contains character information about native emoji, as well as image
