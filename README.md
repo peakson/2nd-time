@@ -3,6 +3,7 @@ gemoji modified by Lewis for testing github desktop
 ### 2nd modify
 ### 3rd modify
 ### 1st branch
+### 2nd branch
 ======
 
 This library contains character information about native emoji, as well as image
